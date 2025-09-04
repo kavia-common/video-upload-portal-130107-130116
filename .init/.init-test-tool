@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/video-upload-portal-130107-130116/video_upload_backend"
+}
